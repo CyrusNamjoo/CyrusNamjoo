@@ -1,4 +1,4 @@
-# Hi, I'm Cyrus Namjoo 👋
+# Hi, I'm Sirous Namjoo 👋
 
 ### Data Analyst | Business Intelligence | Data Science & Machine Learning
 
